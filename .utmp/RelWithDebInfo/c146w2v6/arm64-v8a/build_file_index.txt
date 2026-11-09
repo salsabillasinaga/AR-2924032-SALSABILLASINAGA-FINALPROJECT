@@ -1,0 +1,2 @@
+D:\AR_2924004_INDAH_SAFITRI\2924004_INDAH_SAFITRI_FINALPROJECT\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\AR_2924004_INDAH_SAFITRI\2924004_INDAH_SAFITRI_FINALPROJECT\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

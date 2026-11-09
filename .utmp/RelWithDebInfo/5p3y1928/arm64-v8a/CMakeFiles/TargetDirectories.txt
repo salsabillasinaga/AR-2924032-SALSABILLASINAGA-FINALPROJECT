@@ -1,5 +1,0 @@
-D:/AR_SALSABILLA_2924032/2924032_SALSABILLA_FINALPROJECT/.utmp/RelWithDebInfo/5p3y1928/arm64-v8a/CMakeFiles/edit_cache.dir
-D:/AR_SALSABILLA_2924032/2924032_SALSABILLA_FINALPROJECT/.utmp/RelWithDebInfo/5p3y1928/arm64-v8a/CMakeFiles/rebuild_cache.dir
-D:/AR_SALSABILLA_2924032/2924032_SALSABILLA_FINALPROJECT/.utmp/RelWithDebInfo/5p3y1928/arm64-v8a/GameActivity/CMakeFiles/game.dir
-D:/AR_SALSABILLA_2924032/2924032_SALSABILLA_FINALPROJECT/.utmp/RelWithDebInfo/5p3y1928/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
-D:/AR_SALSABILLA_2924032/2924032_SALSABILLA_FINALPROJECT/.utmp/RelWithDebInfo/5p3y1928/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

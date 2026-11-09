@@ -9,18 +9,19 @@ cat > .gitignore <<'EOF'
 [Uu]ser[Ss]ettings/
 [Mm]emoryCaptures/
 [Rr]ecordings/
+.utmp/
 
-# IDE
+# IDE and editor
 .vs/
 .idea/
 .vscode/
 .gradle/
-
-# Unity generated files
-ExportedObj/
 .consulo/
+
+# Generated Visual Studio files
 *.csproj
 *.sln
+*.slnx
 *.suo
 *.user
 *.userprefs
@@ -32,7 +33,14 @@ ExportedObj/
 *.opendb
 *.VC.db
 
-# OS files
+# Build and package files
+*.apk
+*.aab
+
+# Exported files
+ExportedObj/
+
+# Operating system files
 .DS_Store
 Thumbs.db
 Desktop.ini

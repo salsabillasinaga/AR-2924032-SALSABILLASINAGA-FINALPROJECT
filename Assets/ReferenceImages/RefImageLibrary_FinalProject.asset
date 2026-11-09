@@ -27,3 +27,13 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: Marker_PlanetEarth
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5590158371694712792
+      m_GuidHigh: 2064415338588995756
+    m_SerializedTextureGuid:
+      m_GuidLow: 13493934626131826985
+      m_GuidHigh: 14132185505566330040
+    m_Size: {x: 0.15, y: 0.0995625}
+    m_SpecifySize: 1
+    m_Name: Marker_Galaxy
+    m_Texture: {fileID: 0}
